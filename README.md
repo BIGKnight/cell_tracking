@@ -11,8 +11,10 @@ the vedio which was tested comes from [here](https://www.youtube.com/watch?v=gEw
 the test codes(only offer clustering based method, the other have rather worse results, so I don't give that part codes to you) was written in the jupyter notebook, you can see them in main.ipynb(the first four cells) 
 ### PREDICTION ON SHANGHAITECH_B DATASET
 some samples here<br>
-![avatar](/home/zzn/PycharmProjects/cell_tracking/sample_img/1.jpg)
-![avatar](/home/zzn/PycharmProjects/cell_tracking/sample_img/1.jpg)
-![avatar](/home/zzn/PycharmProjects/cell_tracking/sample_img/1.jpg)
-![avatar](/home/zzn/PycharmProjects/cell_tracking/sample_img/1.jpg)
-![avatar](/home/zzn/PycharmProjects/cell_tracking/sample_img/1.jpg)
+![avatar](./sample_img/1.jpg)
+![avatar](./sample_img/2.jpg)
+![avatar](./sample_img/3.jpg)
+![avatar](./sample_img/4.jpg)
+![avatar](./sample_img/5.jpg)
+![avatar](./sample_img/6.jpg)
+![avatar](./sample_img/7.jpg)
